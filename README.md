@@ -1,5 +1,5 @@
 # React COVID Tracker
-Thank you [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/) for an amazing tutorial.
+Thank you [Naz](https://www.instagram.com/nazdumanskyy/) & [Sonny](https://www.instagram.com/ssssangha/) for this amazing tutorial.
 
 Thing I learn from this project:
 
